@@ -1,4 +1,4 @@
-# AI-MDP-Q-Learning
+# A* Search Algorithm
 
 Implementation of the A* Search Algorithm in Python. We use a 8x8 chess board with the following conditions:
 * White is given a rook and king (both can move freely)
